@@ -2,3 +2,11 @@
 Proyectos basicos en react diseñados.
 
 Estos trabajos creados de react son creados mediante un curso que hice en 2020, ire agregando mas en los proximos dias y o semanas.
+
+Para ver las paginas sin necesidad de descargar nada.
+
+1-Citas
+https://yomiprojects.netlify.app
+
+2-Presupuesto
+https://yomi-presupuesto.netlify.app
