@@ -13,3 +13,6 @@ https://yomi-presupuesto.netlify.app
 
 3- Cotizador de Seguros
 https://cotizador-seguros-yomi.netlify.app/
+
+4- Frases de Breaking Bad mediante una API
+https://yomifrasesbreakingbad.netlify.app
