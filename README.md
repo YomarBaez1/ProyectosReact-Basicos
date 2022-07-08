@@ -10,3 +10,6 @@ https://yomiprojects.netlify.app
 
 2-Presupuesto
 https://yomi-presupuesto.netlify.app
+
+3- Cotizador de Seguros
+https://cotizador-seguros-yomi.netlify.app/
