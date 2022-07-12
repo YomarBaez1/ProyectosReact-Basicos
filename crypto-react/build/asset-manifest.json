@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15f14925.css",
+    "main.js": "/static/js/main.57dcc5ca.js",
+    "static/js/787.7ddb05bc.chunk.js": "/static/js/787.7ddb05bc.chunk.js",
+    "static/media/cryptomonedas.png": "/static/media/cryptomonedas.51f1d2ede8b03f972725.png",
+    "index.html": "/index.html",
+    "main.15f14925.css.map": "/static/css/main.15f14925.css.map",
+    "main.57dcc5ca.js.map": "/static/js/main.57dcc5ca.js.map",
+    "787.7ddb05bc.chunk.js.map": "/static/js/787.7ddb05bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15f14925.css",
+    "static/js/main.57dcc5ca.js"
+  ]
+}
