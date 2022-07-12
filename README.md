@@ -19,3 +19,6 @@ https://yomifrasesbreakingbad.netlify.app
 
 5- Buscador de imagenes mediante una API
 https://buscadorimagenes-yomi.netlify.app/
+
+6- Cotizador de criptomonedas en tiempo real usando una API
+https://cotizador-cripto-yomi.netlify.app/
